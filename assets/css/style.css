@@ -12,7 +12,7 @@ header {
 }
 
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/old-us.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../img/old-us.jpeg);
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
 }
@@ -21,4 +21,8 @@ body {
     background: blue;
     opacity: .6;
     color: #fff;
+}
+
+button {
+    margin: 40px auto;
 }
