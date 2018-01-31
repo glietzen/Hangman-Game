@@ -1,7 +1,24 @@
 .guess-box {
     font-size: 40px;
+    background: red;
+    opacity: .7;
+    color: #fff;
 }
 
 header {
     margin: 10px auto 40px auto;
+    text-align: center;
+    color: #fff;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/old-us.jpeg);
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.win-loss-card {
+    background: blue;
+    opacity: .6;
+    color: #fff;
 }
