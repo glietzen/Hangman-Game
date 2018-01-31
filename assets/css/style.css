@@ -1,39 +1,7 @@
-body {
-    background-image: linear-gradient(rgba(15, 12, 151, 0.85), rgba(15, 12, 151, 0.85)), url('../img/old-us.jpeg');
-    background-size: cover;
-    color: #fff;
-}
-
-h1 {
-    margin-top: 50px;
-}
-
-#showCaseWord {
+.guess-box {
     font-size: 40px;
 }
 
-.main-area {
-    margin: auto;
-}
-
-#wordToGuess {
-    text-align: center;
-    font-size: 40px;
-}
-
-.main-area span {
-    background-position: #000;
-}
-
-ul {
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    list-style: none;
-}
-
-#wrongGusses {
-    letter-spacing: 2em;
+header {
+    margin: 10px auto 40px auto;
 }

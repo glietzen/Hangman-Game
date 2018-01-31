@@ -6,7 +6,7 @@ var doubleWord = ['a', 'b', 'c','d', 'e', 'f',
 				  's', 't', 'u','v', 'w', 'x','y', 'z'];
 
 //Holds all the words
-var wordBank = ['topeka', 'lincoln', 'sacremento', 'albany', 'jackson', 'austin', 'denver', 'madison', 'lansing', 'columbus', 'charleston', 'lexington', 'boston'];
+var wordBank = ['topeka', 'lincoln', 'sacremento', 'albany', 'jackson', 'austin', 'denver', 'madison', 'lansing', 'columbus', 'concord', 'boston', 'montgomery', 'jeneau', 'pheonix', 'hartford', 'dover', 'tallahassee', 'altanta', 'honolulu', 'boise', 'springfield', 'indianapolis', 'frankfort', 'augusta', 'annapolis', 'helena', 'trenton', 'raleigh', 'salem', 'columbia', 'harrisburg', 'pierre', 'montpelier', 'richmond' ];
 //Holds choosenWord
 var choosenWord = "";
 //Holds letters in word
